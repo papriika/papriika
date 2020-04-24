@@ -1,14 +1,9 @@
 <br/>
 
-# Paid accounts
+## Paid accounts
 _Last updated: Apr 23, 2020_
 
 The following policies for billing, cancellations and refunds.
-
-## Table of contents
-- [Paid accounts](#paid-accounts)
-
-## Paid accounts
 
 _Billing_. You can join Papriika by signing up and turning your account into a “Papriika Paid Account”. We’ll automatically bill you from the date you convert to a Papriika Paid Account and on each periodic renewal until cancellation. If you’re on an annual plan, we’ll send you a notice email reminding you that your plan is about to renew within a reasonable period of time prior to the renewal date. You’re responsible for all applicable taxes, and we’ll charge tax when required to do so. Some countries have mandatory local laws regarding your cancellation rights, and this paragraph doesn’t override these laws.
 
