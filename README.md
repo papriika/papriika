@@ -5,8 +5,8 @@
   <p align="center">
     Papriika is an exclusive travel club providing curated content and access to hotels.
     <br/>
-    <a href="https://papriika.ccom">
-      <strong>papriika.ccom</strong>
+    <a href="https://papriika.com">
+      <strong>papriika.com</strong>
     </a>
     <br/>
     <br/>
